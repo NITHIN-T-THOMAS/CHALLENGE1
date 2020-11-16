@@ -1,0 +1,83 @@
+{
+    "table_cont":[
+        {
+           "col1":"SL No.",
+           "col2":"1",
+           "col3":"2",
+           "col4":"3",
+           "col5":"4",
+           "col6":"5",
+           "col7":"6", 
+           "col8":"7",
+           "col9":"8",
+           "col10":"9",
+           "col11":"10"
+
+        },
+        {
+            "col1":"Name",
+            "col2":"Rice",
+            "col3":"Chicken",
+            "col4":"Chilli powder",
+            "col5":"masala powder",
+            "col6":"pepper powder",
+            "col7":"Tomato", 
+            "col8":"Onion",
+            "col9":"Apple",
+            "col10":"Orange",
+            "col11":"Cashew" 
+        },
+        {
+            "col1":"Quantity",
+            "col2":"5",
+            "col3":"2",
+            "col4":"200",
+            "col5":"300",
+            "col6":"200",
+            "col7":"1", 
+            "col8":"2",
+            "col9":"1",
+            "col10":"1",
+            "col11":"200"  
+        },
+        {
+            "col1":"Unit",
+            "col2":"kg",
+            "col3":"kg",
+            "col4":"gm",
+            "col5":"gm",
+            "col6":"gm",
+            "col7":"kg", 
+            "col8":"kg",
+            "col9":"kg",
+            "col10":"kg",
+            "col11":"gm" 
+        },
+        {
+            "col1":"Department",
+            "col2":"food",
+            "col3":"meat",
+            "col4":"masala",
+            "col5":"masala",
+            "col6":"masala",
+            "col7":"vegetable", 
+            "col8":"vegetable",
+            "col9":"Fruits",
+            "col10":"Fruits",
+            "col11":"Nuts" 
+        },
+        {
+            "col1":"Notes",
+            "col2":"Biryani rice",
+            "col3":"large piece",
+            "col4":"Kashmiri chilli",
+            "col5":"Eastern",
+            "col6":"none",
+            "col7":"none", 
+            "col8":"Small onion",
+            "col9":"Green apple",
+            "col10":"none",
+            "col11":"none"  
+        }
+    ]
+}
